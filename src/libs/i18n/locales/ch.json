@@ -1,0 +1,28 @@
+{
+  "message": {
+    "title": "Título do cartão",
+    "text": "O sésamo do bolo agarra dinamarquês do pão-de-espécie do queque eu amo o pão-de-espécie. Torta de torta de maçã jujuba chupa chups muffin halvah pirulito. Ameixa do açúcar do maçapão do tiramisu do bolo da aveia do bolo de chocolate. Bolo de aveia de torta doce rosquinha dragée fruitcake algodão doce gotas de limão.",
+    "pagelength": "Mostrando 1 para",
+    "of": "do",
+    "pageText2": "entradas",
+    "seachLabel": "Procurar",
+    "SearchPlaceholder": "Procurar",
+    "tableHeader": {
+      "name": "nome",
+      "email": "O email",
+      "date": "Encontro",
+      "salary": "Salário",
+      "status": "Status",
+      "action": "Açao"
+    }
+  },
+  "Баланс":"Баланс",
+  "Пополнить" : "Пополнить",
+  "Перевести":"Перевести",
+  "Обменять":"Обменять",
+  "Вывести":"Вывести",
+  "Банковские карты": "Банковские карты",
+  "Чеки":"Чеки",
+  "Счета":"Счета",
+  "История":"История"
+}
