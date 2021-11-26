@@ -1,3 +1,4 @@
-# Vuexy - Vuejs, React, HTML & Laravel Admin Dashboard Template
+# Электронный кошелек и платежная система 
 
-**Vuexy – Vuejs, React, HTML & Laravel Admin Dashboard Template** – is the most developer friendly & highly customizable Admin Dashboard Template based on Bootstrap 4, Bootstrap Vue & Reactstrap.
+Демонстрация: https://dashboard-d9d4e.web.app/
+
